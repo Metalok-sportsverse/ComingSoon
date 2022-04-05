@@ -1,0 +1,28 @@
+.box {
+    color: white;
+    background-color: black;
+    height: 3em ;
+    width: 3em;
+    padding: 1em;
+}
+.boxCorner{
+    color: white;
+    background-color: black;
+    height: 3em ;
+    width: 3em;
+    padding: 1em;
+}
+.boxVerticals{
+    color: white;
+    background-color: black;
+    padding: 1em;
+    height: 3.43em ;
+    width: 3em;
+}
+.boxHorizontals{
+    color: white;
+    background-color: black;
+    height: 3em ;
+    width: 3.3em;
+    padding: 1em;
+}
